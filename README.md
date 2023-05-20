@@ -11,7 +11,7 @@
   <a href="https://satyamblog.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hasnode"/>
   </a>
-  <a> <img src="https://komarev.com/ghpvc/?username=jirayanaruto&style=flat-square&color=blue" alt="Veiws count"/>
+  <a> <img src="https://komarev.com/ghpvc/?username=Satyam0327&style=flat-square&color=blue" alt="Veiws count"/>
   </a>
   
 </div>
@@ -58,9 +58,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </hr>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jirayanaruto&theme=dark&background=000000)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jirayanaruto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirayanaruto&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Satyam0327&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyam0327&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam0327&theme=tokyonight)
 
 ---
 
