@@ -10,9 +10,6 @@
   </a>
   <a href="https://satyamblog.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hasnode"/>
-  </a>
-  <a> <img src="https://komarev.com/ghpvc/?username=Satyam0327&style=flat-square&color=blue" alt="Veiws count"/>
-  </a>
   
 </div>
   <h1>
