@@ -63,7 +63,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### :writing_hand: Blog Posts :
-  <img src="https://media.giphy.com/media/YHpmahJgMjxL6S29Au/giphy.gif">
+  
   <a href="https://satyamblog.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-green?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hasnode"/>
   </a>
